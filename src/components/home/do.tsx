@@ -1,4 +1,3 @@
-import { GiArchiveResearch } from "react-icons/gi";
 import { CgWebsite } from "react-icons/cg";
 import { IoGlobeOutline } from "react-icons/io5";
 import { FaSearchengin } from "react-icons/fa6";
@@ -6,7 +5,7 @@ import { IoIosVideocam } from "react-icons/io";
 import { GrHostMaintenance } from "react-icons/gr";
 import { TbSeo } from "react-icons/tb";
 import { IoAnalyticsOutline } from "react-icons/io5";
-import { CheckCircle, Code, Paintbrush, Rocket, Users } from "lucide-react";
+import { Paintbrush } from "lucide-react";
 const services = [
   {
     icon: <IoGlobeOutline className="w-6 h-6 text-customgreen" />,

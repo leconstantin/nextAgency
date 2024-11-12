@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { ModeToggle } from "../ui/modetoggle";
 import NavItem from "./navitem";
 
 export default function Header() {

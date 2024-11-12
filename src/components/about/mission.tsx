@@ -51,7 +51,7 @@ export default function AboutMission() {
           Ready to Start Your Project?
         </h2>
         <p className="text-base md:text-lg text-muted-foreground max-w-2xl mx-auto">
-          Let's turn your digital dreams into reality. Our team is ready to
+          Let&apos;s turn your digital dreams into reality. Our team is ready to
           bring your vision to life with creativity, expertise, and passion.
         </p>
         <Button size="lg" className="mt-2 md:mt-4">

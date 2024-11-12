@@ -42,9 +42,9 @@ export default function People() {
             <div key={index}>
               <p className="text-zinc-800 text-lg tracking-tighter">
                 <span className="text-customgreen font-semibold tracking-tighter">
-                  "{person.highlight}
+                  &quot;{person.highlight}
                 </span>{" "}
-                <span>"{person.rest}. </span>
+                <span>&quot;{person.rest}. </span>
               </p>
               <div>
                 <p className="text-gray-950 font-bold py-2">{person.name}</p>
@@ -64,9 +64,9 @@ export default function People() {
             <div className="max-w-72" key={index}>
               <p className="text-zinc-800 text-lg tracking-tighter">
                 <span className="text-customgreen tracking-tighter font-semibold">
-                  "{item.highlight}.
+                  &quot;{item.highlight}.
                 </span>{" "}
-                <span>"{item.rest}. </span>
+                <span>&quot;{item.rest}. </span>
               </p>
               <div>
                 <p className="text-gray-950 font-bold py-2">{item.name}</p>

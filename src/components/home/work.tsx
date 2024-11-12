@@ -7,14 +7,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import {
-  Globe,
-  Github,
-  ExternalLink,
-  Code,
-  Palette,
-  Smartphone,
-} from "lucide-react";
+import { Globe, ExternalLink, Code, Palette, Smartphone } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 

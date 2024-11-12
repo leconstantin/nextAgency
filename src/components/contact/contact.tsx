@@ -86,7 +86,7 @@ export default function ContactForm() {
           </div>
         </div>
         <div className="text-sm text-gray-500 italic">
-          Provide your phone number if you'd like us to call you directly.
+          Provide your phone number if you&apos;d like us to call you directly.
         </div>
         <div className="space-y-2">
           <Label htmlFor="role">Your Role</Label>
